@@ -60,7 +60,7 @@ body{
     align-items: center;
     margin-top:15px;
 }
- .media-buttons .links{
+ .media-buttons .link{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -70,6 +70,6 @@ body{
     width: 34px;
     border-radius: 50%;
     margin:0 8px;
-    background-color: blue;
+    background-color: rgb(203, 203, 233);
     text-decoration: none;
 }
